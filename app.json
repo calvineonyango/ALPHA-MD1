@@ -1,6 +1,6 @@
 {
-  "name":"ALPHA-MD",
-  "description":"Best whatsapp bot developed by keithkeizzah",
+  "name":"X-FORCE-MD",
+  "description":"Best whatsapp bot developed by COBU-TECH",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/0c351a67f1dffd1f34cf5.jpg",
   "repository":"https://github.com/keithkeizzah/ALPHA-MD1",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"@",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐀𝐋𝐏𝐇𝐀-𝐌𝐃",
+      "value":"X-FORCE-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/0c351a67f1dffd1f34cf5.jpg",
+      "value":"https://telegra.ph/file/b2cda67e3e3eef9fb32ed.jpg",
       "required":false
        
      },
@@ -50,7 +50,7 @@
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
       "value":"yes",
-      "required":false
+      "required": true 
     }
 	,
     "HEROKU_API_KEY": {
@@ -59,7 +59,7 @@
     },
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is optionnal)",
-     "required" :false
+     "required" : true 
     }  
 	  ,
     "SESSION_ID":
@@ -73,15 +73,15 @@
     {
     
     "desc": "Your Name",
-    "required": false,
-    "value": "𝐊𝐞𝐢𝐭𝐡"
+    "required": true,
+    "value": "COBU-TECH"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254796299159"
+    "value": "254796281776"
   },
     "WARN_COUNT":
   {
